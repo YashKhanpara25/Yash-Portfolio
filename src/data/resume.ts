@@ -4,8 +4,8 @@ export const resumeData = {
       title: "Associate Software Engineer at Deutsche Bank",
       summary: "Backend Software Engineer with 3+ years of experience at Deutsche Bank, specializing in building high-throughput distributed systems, micro-frontends, and config-driven platforms.\n\nAt Deutsche Bank, I focus on driving core architectural transformations. My recent work includes co-designing a multi-tenant platform that enabled multi-department adoption without duplicating infrastructure, as well as building a versioned configuration platform managing 800+ configurations across 200+ reconciliations.\n\nI specialize in performance optimization and data engineering—recently reducing compliance pipeline execution times by 75% by migrating workloads to DuckDB and achieving a 95% reduction in database write latency using batch processing.\n\nPassionate about system architecture, performance tuning, and clean code, I also utilize AI-assisted development tools to streamline delivery and build reliable, scalable infrastructure.",
       location: "Bengaluru, India",
-      email: "yash.khanpara@example.com",
-      phone: "+91 XXXXXXXXXX",
+      email: "yashkhanpara25@gmail.com",
+      phone: "+91 9157873606",
       links: [
         "https://www.linkedin.com/in/yash-khanpara-7b93321b6/",
         "https://github.com/YashKhanpara25"
@@ -110,7 +110,7 @@ export const resumeData = {
   ],
   skills: [
       {
-        group: "Core Backend & Infrastructure",
+        group: "Core Backend & Infrastructure Architecture",
         skills: [
           "Java",
           "Spring Boot",
@@ -119,38 +119,35 @@ export const resumeData = {
           "Microservices",
           "REST APIs",
           "Concurrency",
-          "Multi-tenant Architecture"
+          "Multi-tenant Architecture",
+          "DAG Workflows",
+          "Micro-frontends"
         ]
       },
       {
-        group: "Data & AI Acceleration",
+        group: "Data Engineering & AI Acceleration",
         skills: [
           "DuckDB",
           "GitHub Copilot",
+          "Cursor",
           "Apache Spark",
-          "Oracle / SQL",
-          "Redis Caching"
+          "Redis Caching",
+          "Oracle & SQL Tuning",
+          "Prompt Engineering"
         ]
       },
       {
-        group: "Databases, Frontend, DevOps & AI Tools",
+        group: "Frontend, Supporting Databases & DevOps",
         skills: [
-          "Oracle",
-          "SQL",
-          "Redis",
-          "MongoDB",
-          "DAG Workflows",
           "React",
           "Redux",
           "Webpack Module Federation",
-          "Micro-frontends",
           "Node.js",
-          "ChatGPT / Claude",
-          "Cursor",
-          "Prompt Engineering",
+          "MongoDB",
           "Docker",
+          "CI/CD",
           "Git",
-          "CI/CD"
+          "ChatGPT / Claude"
         ]
       }
     ],
