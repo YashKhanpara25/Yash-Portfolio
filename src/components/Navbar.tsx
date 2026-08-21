@@ -65,7 +65,7 @@ export default function Navbar() {
           style={{ fontFamily: "'Space Grotesk', sans-serif" }}
           onClick={() => scrollTo('hero')}
         >
-          YK.
+          YK
         </div>
         
         <div className="hidden md:flex items-center gap-8">

@@ -37,7 +37,7 @@ export default function Splash({ onComplete }: { onComplete: () => void }) {
           className="mb-8 text-6xl font-bold tracking-tighter"
           style={{ fontFamily: "'Space Grotesk', sans-serif" }}
         >
-          HS
+          YK
         </motion.div>
         
         <div className="w-48 h-1 bg-white/10 rounded-full overflow-hidden">
