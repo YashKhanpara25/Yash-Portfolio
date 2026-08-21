@@ -9,7 +9,7 @@ export default function Hero() {
 
   const handleDownload = () => {
     <a 
-  href="https://drive.google.com/file/d/1slULB3kHiNmCc9Q49R2b1V5042mCzHA_/view?usp=sharing" 
+  href="https://drive.google.com/file/d/1B46k6wNwd6hksVdxKbyDrgyT2TFidkxZ/view"
   target="_blank"
   rel="noopener noreferrer"
   className="px-8 py-4 bg-white/5 text-white border border-white/10 rounded-full font-medium hover:bg-white/10 transition-colors flex items-center gap-2"

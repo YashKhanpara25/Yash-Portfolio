@@ -1,16 +1,16 @@
 export const resumeData = {
   basics: {
-    name: "Yash Khanpara",
-    title: "Associate Software Engineer at Deutsche Bank",
-    summary: "I am a Backend Software Engineer specializing in building highly scalable, distributed platforms and optimizing data-intensive applications. With a strong track record at Deutsche Bank, I have driven architectural transformations, including designing multi-tenant platforms, implementing versioned configuration management systems from scratch, and orchestrating complex data archiving frameworks using DAG-based topological ordering.\n\nMy technical expertise spans across optimizing high-throughput data processing (migrating Spark to DuckDB to boost performance by 80%), resolving database bottlenecks (achieving 95% write time reductions), and leading micro-frontend decompositions using React and Webpack. I also leverage AI-assisted development tools to accelerate delivery and enhance code quality.\n\nI am passionate about clean architecture, system performance, and building resilient distributed systems. I actively seek opportunities to solve complex engineering challenges, mentor teams, and take ownership of critical infrastructure.",
-    location: "Bengaluru, India",
-    email: "yashkhanpara25@gmail.com",
-    phone: "+91 9157873606",
-    links: [
-      "https://www.linkedin.com/in/yash-khanpara-7b93321b6/",
-      "https://github.com/YashKhanpara25"
-    ]
-  },
+      name: "Yash Khanpara",
+      title: "Associate Software Engineer at Deutsche Bank",
+      summary: "Backend Software Engineer with 3+ years of experience at Deutsche Bank, specializing in building high-throughput distributed systems, micro-frontends, and config-driven platforms.\n\nAt Deutsche Bank, I focus on driving core architectural transformations. My recent work includes co-designing a multi-tenant platform that enabled multi-department adoption without duplicating infrastructure, as well as building a versioned configuration platform managing 800+ configurations across 200+ reconciliations.\n\nI specialize in performance optimization and data engineering—recently reducing compliance pipeline execution times by 75% by migrating workloads to DuckDB and achieving a 95% reduction in database write latency using batch processing.\n\nPassionate about system architecture, performance tuning, and clean code, I also utilize AI-assisted development tools to streamline delivery and build reliable, scalable infrastructure.",
+      location: "Bengaluru, India",
+      email: "yash.khanpara@example.com",
+      phone: "+91 XXXXXXXXXX",
+      links: [
+        "https://www.linkedin.com/in/yash-khanpara-7b93321b6/",
+        "https://github.com/YashKhanpara25"
+      ]
+    },
   experience: [
     {
       company: "Deutsche Bank",
@@ -109,31 +109,51 @@ export const resumeData = {
     }
   ],
   skills: [
-    {
-      group: "Core Backend",
-      skills: ["Java", "Spring Boot", "Distributed Systems", "System Design", "Microservices", "Concurrency"]
-    },
-    {
-      group: "Database & Data Engineering",
-      skills: ["DuckDB", "Apache Spark", "Oracle", "SQL", "Redis", "Query Optimization", "DAG Workflows", "MongoDB"]
-    },
-    {
-      group: "Frontend & Architecture",
-      skills: ["React", "Redux", "Webpack Module Federation", "Micro-frontends", "Multi-tenant Architecture", "Node.js"]
-    },
-    {
-      group: "AI-Assisted Development",
-      skills: ["GitHub Copilot", "ChatGPT / Claude", "Cursor", "Prompt Engineering", "AI-Assisted Coding"]
-    },
-    {
-      group: "DevOps & Tooling",
-      skills: ["Docker", "Git", "CI/CD", "Release Management"]
-    },
-    {
-      group: "Languages",
-      skills: ["English (Professional)", "Hindi (Native)"]
-    }
-  ],
+      {
+        group: "Core Backend & Infrastructure",
+        skills: [
+          "Java",
+          "Spring Boot",
+          "Distributed Systems",
+          "System Design",
+          "Microservices",
+          "REST APIs",
+          "Concurrency",
+          "Multi-tenant Architecture"
+        ]
+      },
+      {
+        group: "Data & AI Acceleration",
+        skills: [
+          "DuckDB",
+          "GitHub Copilot",
+          "Apache Spark",
+          "Oracle / SQL",
+          "Redis Caching"
+        ]
+      },
+      {
+        group: "Databases, Frontend, DevOps & AI Tools",
+        skills: [
+          "Oracle",
+          "SQL",
+          "Redis",
+          "MongoDB",
+          "DAG Workflows",
+          "React",
+          "Redux",
+          "Webpack Module Federation",
+          "Micro-frontends",
+          "Node.js",
+          "ChatGPT / Claude",
+          "Cursor",
+          "Prompt Engineering",
+          "Docker",
+          "Git",
+          "CI/CD"
+        ]
+      }
+    ],
   education: [
     {
       institution: "Dhirubhai Ambani Institute of Information and Communication Technology",

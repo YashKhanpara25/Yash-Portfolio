@@ -23,7 +23,6 @@ export default function About() {
           </h2>
           <div className="w-20 h-1 bg-white/20 rounded-full" />
         </motion.div>
-
         <div className="space-y-8 relative">
           <div className="absolute left-0 top-0 bottom-0 w-1 bg-gradient-to-b from-white/20 via-white/5 to-transparent rounded-full hidden md:block" />
           
